@@ -1,0 +1,9 @@
+name: CONFERENCE NAME HERE
+location: SOMEPLACE, COUNTRY
+start: 2014-09-11
+end: 2014-09-11
+description: |
+  Collocated with [Fossetcon](http://fossetcon.org/2014/), This is a day-long event with a strong technical focus, using CentOS as a platform for all things Docker. 
+
+  The morning session will feature talks from members of the community, as well as CentOS Board members. The afternoon session will be broken down as a hackathon focusing on building your own custom Docker images, deploying Docker, and running your own docker index. 
+
